@@ -1,0 +1,16 @@
+<module>
+	<rawname>sccp_manager</rawname>
+	<name>SCCP Manager</name>
+	<version>1.0.0</version>
+	<type>setup</type>
+	<category>SCCP Connectivity</category>
+	<publisher>Javier de la Fuente</publisher>
+	<description>SCCP Phones and Extenxions Manager</description>
+	<menuitems>
+		<sccp_devices sort="1">SCCP Phones</sccp_devices>
+		<sccp_extensions sort="2">SCCP Extensions</sccp_extensions>
+	</menuitems>
+	<changelog></changelog>
+	<location></location>
+	<md5sum></md5sum>
+</module>
